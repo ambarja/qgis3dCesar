@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "barja04",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 393, "type": "Snow and ice", "value": 70, "pcloud_01": 0.0, "pcloud_02": 21.487641888670623, "pcloud_03": 32.884123357944191, "pcloud_04": 61.423517116345465, "pcloud_05": 72.602969937724993, "good": "TRUE", "palette": "F0F0F0", "label": "high_quality", "labeler": "Fernando", "validator": "Jhomira" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -77.472297004702099, -9.069560641386023 ], [ -77.471936838487508, -9.106321829574087 ], [ -77.50892494578396, -9.106678676413996 ], [ -77.509281354832879, -9.069916024228915 ], [ -77.472297004702099, -9.069560641386023 ] ] ] } },
+{ "type": "Feature", "properties": { "id": 425, "type": "Snow and ice", "value": 70, "pcloud_01": 0.0, "pcloud_02": 12.56806596647948, "pcloud_03": 26.462630373425782, "pcloud_04": 64.564102748408914, "pcloud_05": 79.156277531292289, "good": "TRUE", "palette": "F0F0F0", "label": "high_quality", "labeler": "Eduardo", "validator": "Fernando" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -77.644035199730055, -8.869119753811118 ], [ -77.643700227677911, -8.905888010917241 ], [ -77.68067463705755, -8.906220007584833 ], [ -77.681005935534614, -8.869450358496461 ], [ -77.644035199730055, -8.869119753811118 ] ] ] } },
+{ "type": "Feature", "properties": { "id": 446, "type": "Snow and ice", "value": 70, "pcloud_01": 0.0, "pcloud_02": 12.300501996651292, "pcloud_03": 30.82915888633579, "pcloud_04": 61.230214834213257, "pcloud_05": 81.182294507743791, "good": "TRUE", "palette": "F0F0F0", "label": "high_quality", "labeler": "Eduardo", "validator": "Fernando" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -77.328871106498752, -9.361239904906251 ], [ -77.328484074677348, -9.397994673184051 ], [ -77.365496833816636, -9.39837787089488 ], [ -77.365879985007425, -9.361621577955855 ], [ -77.328871106498752, -9.361239904906251 ] ] ] } }
+]
+}
